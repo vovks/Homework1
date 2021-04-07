@@ -1,0 +1,1 @@
+<Person><firstName>Name</firstName><lastName>Surname</lastName><phoneNumbers><phoneNumbers>12345</phoneNumbers><phoneNumbers>321456</phoneNumbers></phoneNumbers><addresses><address><streetName>Malinovskogo</streetName><city>Kiev</city></address><address><streetName>Rokossovskogo</streetName><city>Rivne</city></address></addresses></Person>
